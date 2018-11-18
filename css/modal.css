@@ -1,0 +1,33 @@
+.modal-feedback2 .feedback-form2{background-color:#FFFFFF;color:#333333;font-size:30px;margin:0 auto;padding-bottom:20px;position:relative;width:460px;}
+.modal-feedback .feedback-form{position:relative;margin:100px auto;padding:45px 25px 30px;border:1px solid #ccd5e1;width:620px;height:430px;background-color:#ffffff;}
+.popup, .popup1{margin-top:10px;}
+.popup-close{position:absolute;top:20px;right:20px;cursor:pointer;}
+.popup-overlay,.popup-overlay1{display:none;position:absolute;left:0;top:0;width:100%;height:100%;background:rgba(0,0,0,0.3);text-align:center;z-index:10000;color:#333;}
+.popup-overlay:after,.popup-overlay1:after{display:inline-block;width:0;vertical-align:middle;content:''}
+.modal-feedback div#popup_form.order_form{margin:0 auto;float:none;}
+#popup_form .edit{margin:5px auto 10px 0;}
+#popup_form .form1_back{background-color:#9e6340;opacity:1;}
+#popup_form .form1_header{color:#333;margin:0 auto;margin-bottom:10px;width:285px;}
+#popup_form form{padding-left:0;padding:20px;}
+#popup_form .button_standart{margin-left:0;margin-top:20px;}
+.popup .form_header{margin-top:40px;line-height:30px;}
+.error{border:1px solid red;}
+.modal_header{background-color:#0071bc;color:#fff;padding-top:80px;padding-bottom:22px;}
+.galka{opacity:0.3;}
+.font18{color:#ffffff;font-size:18px;}
+.moreinfo .bold{font-size:45px;font-family:'MyriadPro-Regular';font-weight:bold;}
+.moreinfo_zvonok .bold{font-size:25px;font-family:'MyriadPro-Regular';font-weight:bold;}
+.moreinfo{padding:10px 11px 20px;}
+.social{color:#0071bc;text-decoration:none;font-size:22px;font-family:'MyriadPro-Regular';font-weight:bold;border:3px solid #0071bc;padding:15px;}
+.moreinfo img{margin-top:30px;margin-bottom:20px;}
+.askform .feedback-form2{padding-top:50px;}
+.askform .flabel{font-size:18px;text-align:left;max-width:335px;margin:0 auto;position:relative;top:5px;}
+.modbutton{background-image:url(../images/modbutton.jpg);height:72px;width:336px;cursor:pointer;top:10px;position:relative;margin-bottom:13px;border:none;}
+.modbutton:hover{background-image:url(../images/modbutton.jpg);}
+.modbutton:active{background-image:url(../images/modbutton_active.jpg);}
+textarea.edit{height:230px;}
+.when{color:#000;font-size:18px;cursor:pointer;padding:10px}
+.when.active{color:#fff;background-color:#416ad3;padding:10px;}
+.when1{margin-right:6px;}
+#contact4{padding:32px 62px;}
+#backform .feedback-form2{width:460px;}
