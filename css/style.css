@@ -268,4 +268,41 @@ footer{padding-top:4px;padding-bottom:0px;}
         color: rgb(189, 189, 189) !important;
         cursor: pointer;
     }
+    .logo_mobile {
+        font-size: 16.5px;
+        line-height: 0.9;
+    }
+
+    .logo_mobile p {
+        margin-right: 10px;
+    }
+
+    .slide_header {
+        font-size: 25px;
+    }
+
+    .block_header {
+        font-size: 32px;
+    }
+
+    .block4 .content div {
+        font-size: 32px;
+    }
+
+    .logo_mobile_footer p {
+        margin-right: 10px;
+    }
+
+    .block1 .left_column {
+        text-align: center;
+        position: relative;
+        float: none;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .block1 .right_column {
+        bottom: 20px;
+        height: 100px;
+        text-align: center;
+    }
 }
